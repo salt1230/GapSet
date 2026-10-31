@@ -1,0 +1,7 @@
+Architecture,Clean F1,Challenge F1
+GapSet-R (Ours),73.07,58.39
+Absolute-normalized variant (base),64.59,47.50
+Fixed-lag difference,64.72,38.88
+Ordered antenna aggregation,59.12,17.03
+Ordered aggregation with normalization,58.90,45.53
+Grid-time state,64.63,47.75

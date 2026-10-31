@@ -1,0 +1,6 @@
+Setting,Acc,Macro-F1
+Endpoint-only classifier,49.29,46.45
+Mask-marginal-only classifier,48.97,47.81
+Fixed weights: amplitude set to training mean,33.63,24.58
+Fixed weights: frame permutation within identical masks,41.18,29.49
+GapSet-R original input,73.13,73.07

@@ -1,0 +1,307 @@
+[
+  {
+    "name": "clean",
+    "kind": "clean",
+    "seed": 0
+  },
+  {
+    "name": "rf_random_10_s7",
+    "kind": "rf_random",
+    "amount": 0.1,
+    "seed": 7
+  },
+  {
+    "name": "rf_random_10_s19",
+    "kind": "rf_random",
+    "amount": 0.1,
+    "seed": 19
+  },
+  {
+    "name": "rf_random_10_s43",
+    "kind": "rf_random",
+    "amount": 0.1,
+    "seed": 43
+  },
+  {
+    "name": "rf_random_30_s7",
+    "kind": "rf_random",
+    "amount": 0.3,
+    "seed": 7
+  },
+  {
+    "name": "rf_random_30_s19",
+    "kind": "rf_random",
+    "amount": 0.3,
+    "seed": 19
+  },
+  {
+    "name": "rf_random_30_s43",
+    "kind": "rf_random",
+    "amount": 0.3,
+    "seed": 43
+  },
+  {
+    "name": "rf_random_50_s7",
+    "kind": "rf_random",
+    "amount": 0.5,
+    "seed": 7
+  },
+  {
+    "name": "rf_random_50_s19",
+    "kind": "rf_random",
+    "amount": 0.5,
+    "seed": 19
+  },
+  {
+    "name": "rf_random_50_s43",
+    "kind": "rf_random",
+    "amount": 0.5,
+    "seed": 43
+  },
+  {
+    "name": "step_random_10_s7",
+    "kind": "step_random",
+    "amount": 0.1,
+    "seed": 7
+  },
+  {
+    "name": "step_random_10_s19",
+    "kind": "step_random",
+    "amount": 0.1,
+    "seed": 19
+  },
+  {
+    "name": "step_random_10_s43",
+    "kind": "step_random",
+    "amount": 0.1,
+    "seed": 43
+  },
+  {
+    "name": "step_random_30_s7",
+    "kind": "step_random",
+    "amount": 0.3,
+    "seed": 7
+  },
+  {
+    "name": "step_random_30_s19",
+    "kind": "step_random",
+    "amount": 0.3,
+    "seed": 19
+  },
+  {
+    "name": "step_random_30_s43",
+    "kind": "step_random",
+    "amount": 0.3,
+    "seed": 43
+  },
+  {
+    "name": "step_random_50_s7",
+    "kind": "step_random",
+    "amount": 0.5,
+    "seed": 7
+  },
+  {
+    "name": "step_random_50_s19",
+    "kind": "step_random",
+    "amount": 0.5,
+    "seed": 19
+  },
+  {
+    "name": "step_random_50_s43",
+    "kind": "step_random",
+    "amount": 0.5,
+    "seed": 43
+  },
+  {
+    "name": "frequency_retain75_p0",
+    "kind": "frequency_span",
+    "amount": 0.25,
+    "position": 0.0,
+    "seed": 0
+  },
+  {
+    "name": "frequency_retain75_p50",
+    "kind": "frequency_span",
+    "amount": 0.25,
+    "position": 0.5,
+    "seed": 0
+  },
+  {
+    "name": "frequency_retain75_p100",
+    "kind": "frequency_span",
+    "amount": 0.25,
+    "position": 1.0,
+    "seed": 0
+  },
+  {
+    "name": "frequency_retain50_p0",
+    "kind": "frequency_span",
+    "amount": 0.5,
+    "position": 0.0,
+    "seed": 0
+  },
+  {
+    "name": "frequency_retain50_p50",
+    "kind": "frequency_span",
+    "amount": 0.5,
+    "position": 0.5,
+    "seed": 0
+  },
+  {
+    "name": "frequency_retain50_p100",
+    "kind": "frequency_span",
+    "amount": 0.5,
+    "position": 1.0,
+    "seed": 0
+  },
+  {
+    "name": "frequency_retain25_p0",
+    "kind": "frequency_span",
+    "amount": 0.75,
+    "position": 0.0,
+    "seed": 0
+  },
+  {
+    "name": "frequency_retain25_p50",
+    "kind": "frequency_span",
+    "amount": 0.75,
+    "position": 0.5,
+    "seed": 0
+  },
+  {
+    "name": "frequency_retain25_p100",
+    "kind": "frequency_span",
+    "amount": 0.75,
+    "position": 1.0,
+    "seed": 0
+  },
+  {
+    "name": "step_burst_10_p0",
+    "kind": "step_burst",
+    "amount": 0.1,
+    "position": 0.0,
+    "seed": 0
+  },
+  {
+    "name": "step_burst_10_p50",
+    "kind": "step_burst",
+    "amount": 0.1,
+    "position": 0.5,
+    "seed": 0
+  },
+  {
+    "name": "step_burst_10_p100",
+    "kind": "step_burst",
+    "amount": 0.1,
+    "position": 1.0,
+    "seed": 0
+  },
+  {
+    "name": "step_burst_30_p0",
+    "kind": "step_burst",
+    "amount": 0.3,
+    "position": 0.0,
+    "seed": 0
+  },
+  {
+    "name": "step_burst_30_p50",
+    "kind": "step_burst",
+    "amount": 0.3,
+    "position": 0.5,
+    "seed": 0
+  },
+  {
+    "name": "step_burst_30_p100",
+    "kind": "step_burst",
+    "amount": 0.3,
+    "position": 1.0,
+    "seed": 0
+  },
+  {
+    "name": "step_burst_50_p0",
+    "kind": "step_burst",
+    "amount": 0.5,
+    "position": 0.0,
+    "seed": 0
+  },
+  {
+    "name": "step_burst_50_p50",
+    "kind": "step_burst",
+    "amount": 0.5,
+    "position": 0.5,
+    "seed": 0
+  },
+  {
+    "name": "step_burst_50_p100",
+    "kind": "step_burst",
+    "amount": 0.5,
+    "position": 1.0,
+    "seed": 0
+  },
+  {
+    "name": "link_loss_0",
+    "kind": "link_loss",
+    "links": [
+      0
+    ],
+    "seed": 0
+  },
+  {
+    "name": "link_loss_1",
+    "kind": "link_loss",
+    "links": [
+      1
+    ],
+    "seed": 0
+  },
+  {
+    "name": "link_loss_2",
+    "kind": "link_loss",
+    "links": [
+      2
+    ],
+    "seed": 0
+  },
+  {
+    "name": "link_loss_01",
+    "kind": "link_loss",
+    "links": [
+      0,
+      1
+    ],
+    "seed": 0
+  },
+  {
+    "name": "link_loss_02",
+    "kind": "link_loss",
+    "links": [
+      0,
+      2
+    ],
+    "seed": 0
+  },
+  {
+    "name": "link_loss_12",
+    "kind": "link_loss",
+    "links": [
+      1,
+      2
+    ],
+    "seed": 0
+  },
+  {
+    "name": "joint_s7",
+    "kind": "joint",
+    "seed": 7
+  },
+  {
+    "name": "joint_s19",
+    "kind": "joint",
+    "seed": 19
+  },
+  {
+    "name": "joint_s43",
+    "kind": "joint",
+    "seed": 43
+  }
+]
