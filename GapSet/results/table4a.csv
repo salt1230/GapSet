@@ -1,4 +1,0 @@
-Model,Clean Acc,Clean F1,Challenge Acc,Challenge F1
-GapSet-R,73.26±0.17,73.19±0.15,60.58±0.38,58.96±0.49
-No mass correction,73.26±0.21,73.20±0.18,28.98±0.11,21.15±0.19
-Fixed-lag difference (final architecture),73.26±0.21,73.19±0.16,58.90±0.26,57.09±0.37

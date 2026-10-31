@@ -1,4 +1,0 @@
-Readout,Clean Acc,Clean F1,Challenge Acc,Challenge F1
-Absolute normalization,65.01,64.59,49.84,47.50
-No mass correction,73.10,73.04,28.96,20.98
-Relative correction (Ours),73.13,73.07,60.14,58.39

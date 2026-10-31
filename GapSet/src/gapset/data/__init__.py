@@ -1,1 +1,0 @@
-"""GapSet research code."""

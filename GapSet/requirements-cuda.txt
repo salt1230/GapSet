@@ -1,5 +1,0 @@
-# Install AFTER environment.yml, with the environment active:
-# python -m pip install --no-build-isolation -r requirements-cuda.txt
-# Linux/WSL; matching CUDA development tools or compatible upstream wheels required.
-causal-conv1d==1.4.0
-mamba-ssm==2.2.6.post3

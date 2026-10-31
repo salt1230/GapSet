@@ -1,7 +1,0 @@
-Family,Deletion or retention settings,Number of conditions
-RF,"Randomly delete 10%, 30%, or 50% of subcarriers; 3 mask seeds per level",9
-Span,"Retain a contiguous ordinal subcarrier interval of 75%, 50%, or 25%; start positions 0, 0.5, 1",9
-Step,"Randomly delete 10%, 30%, or 50% of time steps; 3 mask seeds per level",9
-Burst,"Delete a contiguous time segment of 10%, 30%, or 50% on the original grid; positions 0, 0.5, 1",9
-Link,Delete one or two of the three antenna streams; all combinations,6
-Joint,"Randomly delete 30% of subcarriers, then 30% of time steps, then antenna index 0",3
