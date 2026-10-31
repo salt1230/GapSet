@@ -1,0 +1,7 @@
+{
+  "stage": "outputs/support_diagnostics_seed42",
+  "data": "data/cache",
+  "relative_checkpoint": "checkpoints/gapset_r_s42.pth",
+  "relative_checkpoint_sha256": "e0b925f0fff476769b0273f6a780190e3132ccebcbb5920adc6e38a7cad321e4",
+  "deadline_unix": 0
+}
